@@ -1,21 +1,21 @@
-### Hi there 👋
+<!-- Heading -->
+<h3 align="center"><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> Hi there! I'm Corentin Dominguez</h3>
 
-<!--
-**Corentin648/Corentin648** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Profile Views -->
 
-Here are some ideas to get you started:
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Corentin648&label=Profile%20views&color=0e75b6&style=flat" alt="isrealodejobi" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="https://corentin648.github.io">Website</a> •
+  <a href="https://www.linkedin.com/in/corentin-dominguez-545b5a1a8/">Linkedin</a>
+</p>
 
+ <!-- Stats section -->
 
-### My Stats
+---
+
+<h3 align="center">My stats</h3>
+
 [![Stats](https://github-readme-stats.vercel.app/api?username=Corentin648&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs (public repo)](https://github-readme-stats.vercel.app/api/top-langs/?username=Corentin648&count_private=true&exclude_repo=Website)](https://github.com/anuraghazra/github-readme-stats)
